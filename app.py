@@ -3,7 +3,7 @@ import google.generativeai as genai
 import json
 
 # 🔑 Put your Gemini API key here directly
-GEMINI_API_KEY = "AI_zaSyDAZI09TRpxpk1ld5bFmd6LC-77ezLDRlM"
+GEMINI_API_KEY = "AI******ZI09TR******5bFmd*******RlM"
 
 if not GEMINI_API_KEY:
     st.error("⚠️ Gemini API key missing! Add it in the code.")
@@ -103,4 +103,5 @@ if st.button("Generate Answer"):
 
         st.subheader("🛠 Raw JSON")
         st.json(output)
+
 
