@@ -34,13 +34,10 @@ Powered by **Google Gemini API**.
 ## 🚀 Demo Scenarios
 
 ### 🎮 Unity (Teleport Locomotion)
-![Unity Demo](demo_screenshots/unity_demo.png)
 
 ### 🕹️ Unreal (Multiplayer Setup)
-![Unreal Demo](demo_screenshots/unreal_demo.png)
 
 ### 🎨 Shader (AR Occlusion)
-![Shader Demo](demo_screenshots/shader_demo.png)
 
 ---
 
