@@ -1,0 +1,4 @@
+1. streamlit
+2. google-generativeai
+3. Gemini free api key from google AI studio
+4. VS code or any other tool
